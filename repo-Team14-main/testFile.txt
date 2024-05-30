@@ -1,0 +1,45 @@
+
+Instant runoff election
+- - - - - - - - - - - - 
+
+Total votes: 4
+Candidates: 
+	cat
+	dog
+	rat
+
+
+---- Count 1 ----
+Percent of votes:
+cat: 25.0
+dog: 50.0
+rat: 0.0
+
+---- Losing Candidate: rat ----
+
+---- Count 2 ----
+Percent of votes:
+cat: 25.0
+dog: 50.0
+
+---- Winner of election: ----
+dog
+
+
+Instant runoff election
+- - - - - - - - - - - - 
+
+Total votes: 4
+Candidates: 
+	dog
+	cat
+
+
+---- Count 1 ----
+Percent of votes:
+dog: 50.0
+cat: 75.0
+
+---- Winner of election: ----
+cat
+

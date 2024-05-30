@@ -1,0 +1,60 @@
+
+Instant runoff election
+- - - - - - - - - - - - 
+
+Total valid votes: 25
+Candidates: 
+	Rosen (D)
+	Kleinberg (R)
+	Chou (I)
+	Royce (L)
+	Grant (I)
+	Smith (D)
+
+
+---- Count 1 ----
+Percent of votes:
+Rosen (D): 16.0
+Kleinberg (R): 32.0
+Chou (I): 20.0
+Royce (L): 8.0
+Grant (I): 16.0
+Smith (D): 8.0
+
+---- Losing Candidate: Royce (L) ----
+
+---- Count 2 ----
+Percent of votes:
+Smith (D): 8.0
+Rosen (D): 24.0
+Grant (I): 16.0
+Chou (I): 20.0
+Kleinberg (R): 32.0
+
+---- Losing Candidate: Smith (D) ----
+
+---- Count 3 ----
+Percent of votes:
+Grant (I): 24.0
+Chou (I): 20.0
+Rosen (D): 24.0
+Kleinberg (R): 32.0
+
+---- Losing Candidate: Chou (I) ----
+
+---- Count 4 ----
+Percent of votes:
+Grant (I): 28.000000000000004
+Rosen (D): 40.0
+Kleinberg (R): 32.0
+
+---- Losing Candidate: Grant (I) ----
+
+---- Count 5 ----
+Percent of votes:
+Kleinberg (R): 42.10526315789473
+Rosen (D): 57.89473684210527
+
+---- Winner of election: ----
+Rosen (D)
+

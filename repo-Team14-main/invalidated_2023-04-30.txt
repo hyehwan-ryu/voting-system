@@ -1,0 +1,27 @@
+
+---------- Invalid Ballots ----------
+
+{Chou (I)=1, Rosen (D)=2}
+
+{Grant (I)=1, Kleinberg (R)=2}
+
+{Kleinberg (R)=1, Royce (L)=2}
+
+{Chou (I)=2, Rosen (D)=1}
+
+{Chou (I)=1, Rosen (D)=2}
+
+{Grant (I)=1}
+
+{Chou (I)=1}
+
+{Chou (I)=2, Rosen (D)=1}
+
+{Chou (I)=1, Rosen (D)=2}
+
+{Grant (I)=1}
+
+{Chou (I)=1}
+
+{Kleinberg (R)=1, Chou (I)=2}
+

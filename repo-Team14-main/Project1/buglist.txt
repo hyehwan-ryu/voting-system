@@ -1,0 +1,10 @@
+        Description of Bug                          Location of Bug                 Steps to Recreate Bug                       Root Cause Analysis Notes
+
+1.      When calculating the winner of a CPL        ClosedpartyList.java            Run the program with input file             Cause is lack of implementation of a 
+        election, it is possible that 2 or more     calculateSecondAlloc()          "Project1/testing/CPL_tiedRemainder.csv"    tie-breaking feature in CPL. This was 
+        parties have the same number of remaining                                                                               not considered in previous steps in
+        votes following the first allocation of                                     It will be seen that 'Republican' is        the development process. Realistically,
+        seats. If it is the case that there are                                     always award 1 seat in the second           the situation of tied remainder votes 
+        fewer seats available than number of                                        round of allocations, although              will rarely occur in elections.
+        tied candidates, the seats will not be                                      'Democratic' has the same remaining
+        awarded fairly.                                                             votes.

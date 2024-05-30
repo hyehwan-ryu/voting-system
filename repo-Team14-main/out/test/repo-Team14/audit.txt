@@ -1,0 +1,24 @@
+
+Popularity Only election
+- - - - - - - - - - - - 
+
+Total votes: 44
+Candidates: 
+	Pike (D)
+	Foster (D)
+	Deutsch (R)
+	Borg (R)
+	Jones (R)
+	Smith (I)
+
+
+---- Winner of election: ----
+Foster (D) : 20.454545454545457% 
+
+---- Losing candidate of election: ----
+Pike (D) : 25.0% 
+Deutsch (R) : 0.0% 
+Borg (R) : 25.0% 
+Jones (R) : 13.636363636363635% 
+Smith (I) : 15.909090909090908% 
+

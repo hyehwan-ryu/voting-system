@@ -1,0 +1,42 @@
+
+Closed Party List election
+- - - - - - - - - - - - - - 
+Total votes: 30
+Seats available: 8
+Parties: 
+	Democratic
+	Republican
+	New Wave
+	Reform
+	Green
+	Labour
+	Non-Parliamentary political parties
+	Plaid Cymru
+	Independent
+
+
+
+---- First round of seat allocations ----
+Democratic awarded 1 seats from 4 votes.
+Republican awarded 1 seats from 4 votes.
+New Wave awarded 1 seats from 4 votes.
+Reform awarded 1 seats from 3 votes.
+Green awarded 1 seats from 4 votes.
+Labour awarded 0 seats from 1 votes.
+Non-Parliamentary political parties awarded 1 seats from 4 votes.
+Plaid Cymru awarded 1 seats from 5 votes.
+Independent awarded 0 seats from 1 votes.
+
+---- Second round of seat allocations ----
+Plaid Cymru awarded 1 seat from 2 remainder votes.
+
+---- Results ----
+Plaid Cymru seats: 2
+Independent seats: 0
+Non-Parliamentary political parties seats: 1
+Labour seats: 0
+Green seats: 1
+New Wave seats: 1
+Republican seats: 1
+Democratic seats: 1
+Reform seats: 1
